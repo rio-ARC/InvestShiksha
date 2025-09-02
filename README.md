@@ -182,14 +182,14 @@ This project is developed under the auspices of the Securities and Exchange Boar
 
 ## 📞 Contact & Support
 
-- **Official Website**: [www.investshiksha.in](https://www.investshiksha.in) (placeholder)
+- **Official Website**: [www.investshiksha.in](https://investshiksha-demo.netlify.app/) (placeholder)
 - **SEBI Website**: [www.sebi.gov.in](https://www.sebi.gov.in)
 - **Support Email**: support@investshiksha.in (placeholder)
 - **Community Forum**: Join our community discussions
 
 ### For Developers
-- **GitHub Repository**: [github.com/sebi/investshiksha](https://github.com/sebi/investshiksha) (placeholder)
-- **Documentation**: [docs.investshiksha.in](https://docs.investshiksha.in) (placeholder)
+- **GitHub Repository**: [github.com/sebi/investshiksha](https://github.com/rio-ARC/InvestShiksha) (placeholder)
+- **Documentation**: [docs.investshiksha.in](https://docs.google.com/document/d/1yRQ7rW4Tuz-rCT_UfPsMVEoQgybKWyITH4gNhMFjltA/edit?usp=sharing) (placeholder)
 
 ---
 
