@@ -1,0 +1,97 @@
+{
+  "hero": {
+    "title": "Learn. Trade. Grow.",
+    "subtitle": "Master financial markets with India's most comprehensive multilingual education platform. From basic concepts to advanced trading strategies.",
+    "startLearning": "Start Learning Free",
+    "tryVirtualTrading": "Try Virtual Trading"
+  },
+  "features": {
+    "title": "Why Choose InvestShiksha?",
+    "subtitle": "Designed for Indian investors, built with local insights and global standards.",
+    "multilingual": {
+      "title": "10+ Indian Languages",
+      "description": "Learn in Hindi, Bengali, Tamil, Telugu, and 7 more regional languages"
+    },
+    "virtualTrading": {
+      "title": "Virtual Trading",
+      "description": "Practice with ₹1,00,000 virtual capital in real market conditions"
+    },
+    "aiPersonalization": {
+      "title": "AI Personalization",
+      "description": "Get customized learning paths based on your progress and goals"
+    },
+    "gamifiedLearning": {
+      "title": "Gamified Learning",
+      "description": "Earn badges, compete on leaderboards, and track achievements"
+    }
+  },
+  "dashboard": {
+    "welcome": "Welcome back, Student!",
+    "continueJourney": "Continue your financial learning journey",
+    "learningProgress": "Your Learning Progress",
+    "achievements": "Your Achievements",
+    "trackProgress": "Track your progress and celebrate milestones",
+    "learningModules": "Learning Modules",
+    "structuredCurriculum": "Structured curriculum from basics to advanced topics"
+  },
+  "modules": {
+    "marketBasics": "Market Basics",
+    "technicalAnalysis": "Technical Analysis",
+    "portfolioManagement": "Portfolio Management",
+    "mutualFunds": "Mutual Funds",
+    "derivatives": "Derivatives",
+    "riskManagement": "Risk Management",
+    "stockAnalysis": "Stock Analysis",
+    "tradingPsychology": "Trading Psychology",
+    "financialPlanning": "Financial Planning",
+    "riskAssessment": "Risk Assessment"
+  },
+  "levels": {
+    "beginner": "Beginner",
+    "intermediate": "Intermediate",
+    "advanced": "Advanced"
+  },
+  "goals": {
+    "title": "Today's Goal",
+    "completeLesson": "Complete 1 lesson",
+    "practiceTrade": "Practice 1 trade",
+    "quizScore": "Quiz score > 80%",
+    "done": "Done",
+    "pending": "Pending"
+  },
+  "footer": {
+    "description": "Empowering Indian investors with comprehensive financial education.",
+    "learn": "Learn",
+    "practice": "Practice",
+    "support": "Support",
+    "virtualTrading": "Virtual Trading",
+    "paperTrading": "Paper Trading",
+    "marketSimulator": "Market Simulator",
+    "strategyTesting": "Strategy Testing",
+    "helpCenter": "Help Center",
+    "communityForum": "Community Forum",
+    "videoTutorials": "Video Tutorials",
+    "expertGuidance": "Expert Guidance",
+    "copyright": "© 2024 InvestShiksha - A SEBI Initiative. All rights reserved."
+  },
+  "common": {
+    "progress": "Progress",
+    "timeSpent": "Time Spent",
+    "achievements": "Achievements",
+    "level": "Level",
+    "cash": "Cash",
+    "investments": "Investments",
+    "todayChange": "Today's Change"
+  },
+  "notFound": {
+    "title": "404",
+    "message": "Oops! Page not found",
+    "returnHome": "Return to Home"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "learn": "Learn",
+    "virtualTrade": "Virtual Trade",
+    "achievements": "Achievements"
+  }
+}

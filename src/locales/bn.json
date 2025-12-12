@@ -1,0 +1,86 @@
+{
+  "hero": {
+    "title": "শিখুন। ব্যবসা করুন। বাড়ুন।",
+    "subtitle": "ভারতের সবচেয়ে বিস্তৃত বহুভাষিক শিক্ষা প্ল্যাটফর্মের সাথে আর্থিক বাজারে দক্ষতা অর্জন করুন। মৌলিক ধারণা থেকে উন্নত ব্যবসায়িক কৌশল পর্যন্ত।",
+    "startLearning": "বিনামূল্যে শিখতে শুরু করুন",
+    "tryVirtualTrading": "ভার্চুয়াল ট্রেডিং চেষ্টা করুন"
+  },
+  "features": {
+    "title": "InvestShiksha কেন বেছে নেবেন?",
+    "subtitle": "ভারতীয় বিনিয়োগকারীদের জন্য ডিজাইন করা, স্থানীয় অন্তর্দৃষ্টি এবং বিশ্বমানের সাথে তৈরি।",
+    "multilingual": {
+      "title": "10+ ভারতীয় ভাষা",
+      "description": "হিন্দি, বাংলা, তামিল, তেলুগু এবং 7টি অন্যান্য আঞ্চলিক ভাষায় শিখুন"
+    },
+    "virtualTrading": {
+      "title": "ভার্চুয়াল ট্রেডিং",
+      "description": "₹1,00,000 ভার্চুয়াল ক্যাপিটালের সাথে বাস্তব বাজার পরিস্থিতিতে অনুশীলন করুন"
+    },
+    "aiPersonalization": {
+      "title": "AI ব্যক্তিগতকরণ",
+      "description": "আপনার অগ্রগতি এবং লক্ষ্যের উপর ভিত্তি করে কাস্টমাইজড শিক্ষার পথ পান"
+    },
+    "gamifiedLearning": {
+      "title": "গেমিফাইড লার্নিং",
+      "description": "ব্যাজ অর্জন করুন, লিডারবোর্ডে প্রতিযোগিতা করুন এবং অর্জনগুলি ট্র্যাক করুন"
+    }
+  },
+  "dashboard": {
+    "welcome": "ফিরে আসার জন্য স্বাগতম, ছাত্র!",
+    "continueJourney": "আপনার আর্থিক শিক্ষার যাত্রা চালিয়ে যান",
+    "learningProgress": "আপনার শিক্ষার অগ্রগতি",
+    "achievements": "আপনার অর্জন",
+    "trackProgress": "আপনার অগ্রগতি ট্র্যাক করুন এবং মাইলস্টোন উদযাপন করুন",
+    "learningModules": "শিক্ষা মডিউল",
+    "structuredCurriculum": "মৌলিক থেকে উন্নত বিষয় পর্যন্ত সংরচিত পাঠ্যক্রম"
+  },
+  "modules": {
+    "marketBasics": "বাজারের মূল বিষয়",
+    "technicalAnalysis": "প্রযুক্তিগত বিশ্লেষণ",
+    "portfolioManagement": "পোর্টফোলিও ব্যবস্থাপনা",
+    "mutualFunds": "মিউচুয়াল ফান্ড",
+    "derivatives": "ডেরিভেটিভস",
+    "riskManagement": "ঝুঁকি ব্যবস্থাপনা",
+    "stockAnalysis": "শেয়ার বিশ্লেষণ",
+    "tradingPsychology": "ট্রেডিং মনোবিজ্ঞান",
+    "financialPlanning": "আর্থিক পরিকল্পনা",
+    "riskAssessment": "ঝুঁকি মূল্যায়ন"
+  },
+  "levels": {
+    "beginner": "শুরুকারী",
+    "intermediate": "মধ্যম",
+    "advanced": "উন্নত"
+  },
+  "goals": {
+    "title": "আজকের লক্ষ্য",
+    "completeLesson": "1টি পাঠ সম্পূর্ণ করুন",
+    "practiceTrade": "1টি ট্রেড অনুশীলন করুন",
+    "quizScore": "কুইজ স্কোর > 80%",
+    "done": "সম্পন্ন",
+    "pending": "মুলতুবি"
+  },
+  "footer": {
+    "description": "ভারতীয় বিনিয়োগকারীদের বিস্তৃত আর্থিক শিক্ষার সাথে ক্ষমতায়ন।",
+    "learn": "শিখুন",
+    "practice": "অনুশীলন",
+    "support": "সহায়তা",
+    "virtualTrading": "ভার্চুয়াল ট্রেডিং",
+    "paperTrading": "পেপার ট্রেডিং",
+    "marketSimulator": "বাজার সিমুলেটর",
+    "strategyTesting": "কৌশল পরীক্ষণ",
+    "helpCenter": "সহায়তা কেন্দ্র",
+    "communityForum": "সম্প্রদায় ফোরাম",
+    "videoTutorials": "ভিডিও টিউটোরিয়াল",
+    "expertGuidance": "বিশেষজ্ঞ নির্দেশনা",
+    "copyright": "© 2024 InvestShiksha - একটি SEBI উদ্যোগ। সমস্ত অধিকার সংরক্ষিত।"
+  },
+  "common": {
+    "progress": "অগ্রগতি",
+    "timeSpent": "সময় ব্যয়",
+    "achievements": "অর্জন",
+    "level": "স্তর",
+    "cash": "নগদ",
+    "investments": "বিনিয়োগ",
+    "todayChange": "আজকের পরিবর্তন"
+  }
+}

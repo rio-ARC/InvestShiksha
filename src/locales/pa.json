@@ -1,0 +1,86 @@
+{
+  "hero": {
+    "title": "ਸਿੱਖੋ। ਵਪਾਰ ਕਰੋ। ਵਧੋ।",
+    "subtitle": "ਭਾਰਤ ਦੇ ਸਭ ਤੋਂ ਵਿਆਪਕ ਬਹੁਭਾਸ਼ੀ ਸਿੱਖਿਆ ਪਲੇਟਫਾਰਮ ਦੇ ਨਾਲ ਵਿੱਤੀ ਮਾਰਕੀਟਾਂ ਵਿੱਚ ਮੁਹਾਰਤ ਹਾਸਲ ਕਰੋ। ਮੂਲ ਧਾਰਨਾਵਾਂ ਤੋਂ ਤੱਕ ਉੱਨਤ ਵਪਾਰ ਰਣਨੀਤੀਆਂ।",
+    "startLearning": "ਮੁਫ਼ਤ ਸਿੱਖਣਾ ਸ਼ੁਰੂ ਕਰੋ",
+    "tryVirtualTrading": "ਵਰਚੁਅਲ ਟ੍ਰੇਡਿੰਗ ਅਜ਼ਮਾਓ"
+  },
+  "features": {
+    "title": "InvestShiksha ਕਿਉਂ ਚੁਣਨਾ ਹੈ?",
+    "subtitle": "ਭਾਰਤੀ ਨਿਵੇਸ਼ਕਾਂ ਲਈ ਡਿਜ਼ਾਇਨ ਕੀਤਾ ਗਿਆ, ਸਥਾਨਕ ਦ੍ਰਿਸ਼ਟੀਕੋਣ ਅਤੇ ਵਿਸ਼ਵਵਿਆਪੀ ਮਿਆਰਾਂ ਨਾਲ ਬਣਾਇਆ ਗਿਆ।",
+    "multilingual": {
+      "title": "10+ ਭਾਰਤੀ ਭਾਸ਼ਾਵਾਂ",
+      "description": "ਹਿੰਦੀ, ਬੰਗਾਲੀ, ਤਮਿਲ, ਤੇਲਗੂ ਅਤੇ 7 ਹੋਰ ਪ੍ਰਾਂਤੀ ਭਾਸ਼ਾਵਾਂ ਵਿੱਚ ਸਿੱਖੋ"
+    },
+    "virtualTrading": {
+      "title": "ਵਰਚੁਅਲ ਟ੍ਰੇਡਿੰਗ",
+      "description": "₹1,00,000 ਵਰਚੁਅਲ ਪੂੰਜੀ ਦੇ ਨਾਲ ਅਸਲ ਮਾਰਕੀਟ ਹਾਲਤਾਂ ਵਿੱਚ ਅਭਿਆਸ ਕਰੋ"
+    },
+    "aiPersonalization": {
+      "title": "AI ਨਿੱਜੀਕਰਨ",
+      "description": "ਆਪਣੀ ਪ੍ਰਗਤੀ ਅਤੇ ਟੀਚਿਆਂ ਦੇ ਆਧਾਰ 'ਤੇ ਕਸਟਮਾਇਜ਼ਡ ਸਿੱਖਣ ਦੇ ਰਸਤੇ ਪ੍ਰਾਪਤ ਕਰੋ"
+    },
+    "gamifiedLearning": {
+      "title": "ਗੇਮਿਫਾਇਡ ਸਿੱਖਿਆ",
+      "description": "ਬੈਜ ਜਿੱਤੋ, ਲੀਡਰਬੋਰਡ 'ਤੇ ਮੁਕਾਬਲਾ ਕਰੋ ਅਤੇ ਕੀਰਤੀਆਂ ਨੂੰ ਟ੍ਰੈਕ ਕਰੋ"
+    }
+  },
+  "dashboard": {
+    "welcome": "ਵਾਪਸ ਸਵਾਗਤ ਹੈ, ਵਿਦਿਆਰਥੀ!",
+    "continueJourney": "ਆਪਣੀ ਵਿੱਤੀ ਸਿੱਖਣ ਦੀ ਯਾਤਰਾ ਜਾਰੀ ਰੱਖੋ",
+    "learningProgress": "ਤੁਹਾਡੀ ਸਿੱਖਣ ਦੀ ਪ੍ਰਗਤੀ",
+    "achievements": "ਤੁਹਾਡੀਆਂ ਕੀਰਤੀਆਂ",
+    "trackProgress": "ਆਪਣੀ ਪ੍ਰਗਤੀ ਨੂੰ ਟ੍ਰੈਕ ਕਰੋ ਅਤੇ ਮੀਲ ਪੱਥਰ ਮਨਾਓ",
+    "learningModules": "ਸਿੱਖਣ ਮੋਡੀਊਲ",
+    "structuredCurriculum": "ਮੂਲ ਤੋਂ ਉੱਨਤ ਵਿਸ਼ਿਆਂ ਤੱਕ ਸੰਗਠਿਤ ਪਾਠਕ੍ਰਮ"
+  },
+  "modules": {
+    "marketBasics": "ਮਾਰਕੀਟ ਮੂਲ",
+    "technicalAnalysis": "ਤਕਨੀਕੀ ਵਿਸ਼ਲੇਸ਼ਣ",
+    "portfolioManagement": "ਪੋਰਟਫੋਲਿਓ ਪ੍ਰਬੰਧਨ",
+    "mutualFunds": "ਮਿਉਚੁਅਲ ਫੰਡ",
+    "derivatives": "ਡੇਰੀਵੇਟਿਵ",
+    "riskManagement": "ਜੋਖਮ ਪ੍ਰਬੰਧਨ",
+    "stockAnalysis": "ਸਟਾਕ ਵਿਸ਼ਲੇਸ਼ਣ",
+    "tradingPsychology": "ਟ੍ਰੇਡਿੰਗ ਮਨੋਵਿਜ੍ਞਾਨ",
+    "financialPlanning": "ਵਿੱਤੀ ਯੋਜਨਾ",
+    "riskAssessment": "ਜੋਖਮ ਮੁਲਾਂਕਣ"
+  },
+  "levels": {
+    "beginner": "ਸ਼ੁਰੂਆਤੀ",
+    "intermediate": "ਮੱਧਮ",
+    "advanced": "ਉੱਨਤ"
+  },
+  "goals": {
+    "title": "ਅੱਜ ਦਾ ਟੀਚਾ",
+    "completeLesson": "1 ਪਾਠ ਪੂਰਾ ਕਰੋ",
+    "practiceTrade": "1 ਟ੍ਰੇਡ ਅਭਿਆਸ ਕਰੋ",
+    "quizScore": "ਕਵਿਜ਼ ਸਕੋਰ > 80%",
+    "done": "ਹੋ ਗਿਆ",
+    "pending": "ਬਾਕੀ"
+  },
+  "footer": {
+    "description": "ਭਾਰਤੀ ਨਿਵੇਸ਼ਕਾਂ ਨੂੰ ਵਿਆਪਕ ਵਿੱਤੀ ਸਿੱਖਿਆ ਨਾਲ ਸਸ਼ਕਤ ਬਣਾਉਣਾ।",
+    "learn": "ਸਿੱਖੋ",
+    "practice": "ਅਭਿਆਸ",
+    "support": "ਸਹਾਇਤਾ",
+    "virtualTrading": "ਵਰਚੁਅਲ ਟ੍ਰੇਡਿੰਗ",
+    "paperTrading": "ਪੇਪਰ ਟ੍ਰੇਡਿੰਗ",
+    "marketSimulator": "ਮਾਰਕੀਟ ਸਿਮੂਲੇਟਰ",
+    "strategyTesting": "ਰਣਨੀਤੀ ਜਾਂਚ",
+    "helpCenter": "ਸਹਾਇਤਾ ਕੇਂਦਰ",
+    "communityForum": "ਸਮਾਜਿਕ ਫੋਰਮ",
+    "videoTutorials": "ਵੀਡੀਓ ਟਿਊਟੋਰਿਅਲ",
+    "expertGuidance": "ਮਾਹਿਰ ਮਾਰਗਦਰਸ਼ਨ",
+    "copyright": "© 2024 InvestShiksha - ਇੱਕ SEBI ਪਹਿਲ। ਸਾਰੇ ਹੱਕ ਰਾਖਵੇ ਹਨ।"
+  },
+  "common": {
+    "progress": "ਪ੍ਰਗਤੀ",
+    "timeSpent": "ਸਮਾਂ ਬਿਤਾਇਆ",
+    "achievements": "ਕੀਰਤੀਆਂ",
+    "level": "ਸਤਹ",
+    "cash": "ਨਕਦ",
+    "investments": "ਨਿਵੇਸ਼",
+    "todayChange": "ਅੱਜ ਦਾ ਬਦਲਾਵ"
+  }
+}
